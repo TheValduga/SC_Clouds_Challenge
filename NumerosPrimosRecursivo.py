@@ -1,7 +1,7 @@
 # Lucas Gusmão Valduga
 
 # Implementado algoritmo do Crivo de Eratóstenes para encontrar todos os números primos menores ou iguais a n
-# Adaptador algoritmo do Crivo de Eratóstenes para implementação recursiva
+# Adaptado algoritmo do Crivo de Eratóstenes para implementação recursiva
 # Referências: https://pt.wikipedia.org/wiki/Crivo_de_Erat%C3%B3stenes , https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html
 
 # Repositório https://github.com/TheValduga/SC_Clouds_Challenge
